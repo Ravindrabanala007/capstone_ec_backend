@@ -14,8 +14,7 @@ const PORT = process.env.PORT || 5000;
 
 // Define allowed origins (your deployed frontend URL)
 const allowedOrigins = [
-  'https://your-frontend-domain.vercel.app', // Replace with your Vercel URL
-  'https://your-frontend-domain.netlify.app', // If using Netlify
+  "https://frontend-ecommerce-swart.vercel.app", // Replace with your Vercel URL
   'http://localhost:5173', // For local development with Vite
   'http://localhost:3000', // For local development with CRA
 ];
